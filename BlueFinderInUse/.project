@@ -26,7 +26,7 @@
 		<link>
 			<name>.link_to_grails_plugins</name>
 			<type>2</type>
-			<location>/data/dtorres/EclipseWorkspace/BlueFinderInUse/target/work/plugins</location>
+			<location>/home/dtorres/git/ImprovingWikipediaBF/BlueFinderInUse/target/work/plugins</location>
 		</link>
 	</linkedResources>
 </projectDescription>
